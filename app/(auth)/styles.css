@@ -1,0 +1,9 @@
+.auth-gradient {
+  background: rgb(14, 9, 80);
+  background: linear-gradient(
+    90deg,
+    rgba(14, 9, 80, 1) 0%,
+    rgba(117, 117, 199, 1) 36%,
+    rgba(53, 153, 173, 1) 100%
+  );
+}
